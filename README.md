@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 128000</h1>
-<h3 align="center">A passionate frontend developer from Dallas,Tx</h3>
+<h3 align="center">thats all</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
